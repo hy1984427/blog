@@ -1,0 +1,43 @@
+## Hello
+
+
+I am **HuangYong**, a Quality Analyst from China, who worked in software testing since 2006. Currently I am focusing on testing practices and frameworks of Mobile testing.
+
+![HuangYong's avatar](https://raw.githubusercontent.com/hy1984427/hy1984427.github.io/master/images/avatar.png)
+
+#### I have published one paper book about mobile app testing:
+
+[**Pro Mobile App Testing With 22 Rules**](http://www.amazon.cn/gp/product/B011B2GP22)
+
+![Pro Mobile App Testing With 22 Rules](https://raw.githubusercontent.com/hy1984427/hy1984427.github.io/master/images/cover.png)
+
+#### I have published 2 handbooks on Github:
+
+1. [*Handbook of appium*](http://hy1984427.github.io/appium/)
+
+2. [*Handbook of BDD with PageObject*](http://hy1984427.github.io/BDD-with-PageObject/)
+
+#### There are 3 videos of my speaking in [B'QConf (Better Quality Conference)](http://weibo.com/bqconf):
+
+1. [*Automation for WebService - SoapUI*](http://v.youku.com/v_show/id_XMjU3MzM4NjU2.html)
+
+	Presentation can be found through [here](https://raw.githubusercontent.com/hy1984427/hy1984427.github.io/master/coduments/Automation_For_Web_Service-soapui.pdf).
+
+2. [*Blackbox automation for Android - Robotium*](http://v.youku.com/v_show/id_XMjU2NzEzNzY0.html)
+
+	Presentation can be found through [here](https://raw.githubusercontent.com/hy1984427/hy1984427.github.io/master/coduments/Robotium_Black_Box_Testing_For_Android_Chinese.pdf).
+
+3. [*Pro Mobile App Testing With 22 Rules*](http://v.youku.com/v_show/id_XMTI1MzcxNzE5Ng.html)
+
+	Presentation can be found through [here](https://raw.githubusercontent.com/hy1984427/hy1984427.github.io/master/coduments/Pro_Mobile_App_Testing_With_22_Rules.pdf).
+
+
+And I have also published an article about **Gamification in Insurance project** on InfoQ China: [*Practice of gamification in insurance project*](http://www.infoq.com/cn/articles/practice-of-gamification-in-insurance-project).
+
+For more details, you can fine me on **LinkedIn**:[![www.linkedin.com/in/hy1984427](http://www.linkedin.com/img/webpromo/btn_viewmy_160x33.gif)](http://www.linkedin.com/in/hy1984427)
+
+#### Links:
+[Code and Life](http://icodeit.org/)
+[PHODAL](https://www.phodal.com/)
+[YangXuemin](http://xmyang.github.io/)
+[鹤音谷](http://lotuswlz.github.io/)
