@@ -8,12 +8,13 @@ tags:
 - Automation
 - iOS
 - Android
-- Get-Start
+- Quick-Start
 comments: true
 ---
 ##### There are many changes compared to the early version of appium, so I would like to start from scratch to build a simple testing script for appium. For further reading about how to apply Page Object and BDD to appium, you can read my previous article [Cookbook for appium](http://hy1984427.github.io/appium/) and [BDD with PageObject](http://hy1984427.github.io/BDD-with-PageObject/).
 
 ### Environment Settings:
+
 1. Install XCode and its command line tool.
 
   To install XCode command line tool, you can use the following command in Terminal:
