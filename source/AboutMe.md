@@ -9,11 +9,11 @@ I am **HuangYong**, a Quality Analyst from China, who worked in software testing
 
 1. [**Pro Mobile App Testing With 22 Rules**](https://www.amazon.cn/dp/B011B2GP22)
 
-![Pro Mobile App Testing With 22 Rules](https://raw.githubusercontent.com/hy1984427/hy1984427.github.io/master/images/MobileTestingBookCover.png)
+	![Pro Mobile App Testing With 22 Rules](https://raw.githubusercontent.com/hy1984427/hy1984427.github.io/master/images/MobileTestingBookCover.png)
 
 2. [**Bug Big Bang in Web Testing**](https://www.amazon.cn/dp/B071GYCWHP)
 
-![Pro Mobile App Testing With 22 Rules](https://raw.githubusercontent.com/hy1984427/hy1984427.github.io/master/images/WebTestingBookCover.png)
+	![Bug Big Bang in Web Testing](https://raw.githubusercontent.com/hy1984427/hy1984427.github.io/master/images/WebTestingBookCover.jpg)
 
 #### I have published 2 handbooks on Github:
 
