@@ -5,7 +5,7 @@ I am **HuangYong**, a Quality Analyst from China, who worked in software testing
 
 ![HuangYong's avatar](https://raw.githubusercontent.com/hy1984427/hy1984427.github.io/master/images/avatar.png)
 
-#### I have published one paper book about mobile app testing and another paper book about web testing:
+#### I have published one paper book about Mobile App Testing and another paper book about Web Testing:
 
 1. [**Pro Mobile App Testing With 22 Rules**](https://www.amazon.cn/dp/B011B2GP22)
 
@@ -38,7 +38,7 @@ I am **HuangYong**, a Quality Analyst from China, who worked in software testing
 
 And I have also published an article about **Gamification in Insurance project** on InfoQ China: [*Practice of gamification in insurance project*](http://www.infoq.com/cn/articles/practice-of-gamification-in-insurance-project).
 
-For more details, you can fine me on **LinkedIn**:[![www.linkedin.com/in/hy1984427](http://www.linkedin.com/img/webpromo/btn_viewmy_160x33.gif)](http://www.linkedin.com/in/hy1984427)
+For more details, you can fine me on [**LinkedIn**](http://www.linkedin.com/in/hy1984427).
 
 #### Links:
 [Code and Life](http://icodeit.org/)
