@@ -1,4 +1,4 @@
-title: Quick start for Mocha + Chai + SuperTest in API Testing with Tips and Mock Server (moco)
+title: Quick start for Mocha + Chai + SuperTest in API Testing with Mock Server (moco) and Tips
 date: 2017-07-14
 categories:
 - Testing
