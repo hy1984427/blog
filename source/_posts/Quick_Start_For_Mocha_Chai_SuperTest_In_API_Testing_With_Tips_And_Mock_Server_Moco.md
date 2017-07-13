@@ -551,6 +551,10 @@ comments: true
 
   9) Run the test using `mocha users_test.js`, it will show the same result as above.
 
+### Tips:
+
+1. If you want to test against OAuth protocol, you need to change SuperTest to unirest. Thanks to [QiLei](https://qaseven.github.io/).
+
 ### Later on:
 
 Since you already can run your test scripts smoothly through command line, you can simply add them to CI tools, such as Jenkins and such.
