@@ -22,7 +22,6 @@ comments: true
 ### Pull a Docker image. e.g. "Ruby"
   `docker pull ruby`
 
-
 ### Check the ruby version in Docker image "Ruby"
   `docker run ruby ruby -v`
 
