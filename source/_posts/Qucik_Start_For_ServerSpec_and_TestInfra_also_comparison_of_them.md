@@ -24,6 +24,12 @@ comments: true
 
   * Generate ssh key: `ssh-keygen -t rsa`
   * Copy ssh public key to server: `ssh-copy-id -i ~/.ssh/id_rsa.pub username@server`
+  * Add following lines to ~/.ssh/config.
+
+    ```
+    Host server
+      User username
+    ```
 
 ### Get Started for ServerSpec:
 
@@ -47,9 +53,10 @@ comments: true
 
 ### Get Started for Testinfra:
 
-1. Install Testinfra.
+1. Install Testinfra and Paramiko.
 
   `pip install testinfra`
+  `pip install paramiko`
 
 2. Write and run the Testinfra script according to its [API document](http://testinfra.readthedocs.io/en/latest/modules.html).
 
