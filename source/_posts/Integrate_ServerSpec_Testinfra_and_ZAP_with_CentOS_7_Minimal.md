@@ -168,7 +168,10 @@ comments: true
 
   3) Install Rest-Client
 
-   `yum install rubygem-rest-client`
+   ```
+   yum install gcc-c++
+   gem install rest-client
+   ```
 
   4) Install RSpec
 
