@@ -186,7 +186,15 @@ comments: true
     export DISPLAY=:99
     ```
 
-  6) Add following lines to ~/.bash_profile.
+  6) Download and setup geckodriver.
+
+  ```
+  wget https://github.com/mozilla/geckodriver/releases/download/v0.18.0/geckodriver-v0.18.0-linux64.tar.gz
+  tar -xvzf geckodriver-v0.18.0-linux64.tar.gz
+  mv geckodriver /usr/lib64
+  ```
+
+  7) Add following lines to ~/.bash_profile.
 
     `$PATH=$PATH:/usr/lib64`
 
