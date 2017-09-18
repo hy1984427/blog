@@ -75,7 +75,7 @@ comments: true
 2. Install all necessary libraries.
 
   ```
-  yum install gcc g++ make automake autoconf curl-devel openssl-devel zlib-devel httpd-devel apr-devel apr-util-devel sqlite-devel wget
+  yum install gcc g++ make automake autoconf curl-devel openssl-devel zlib-devel httpd-devel apr-devel apr-util-devel sqlite-devel wget net-tools
 
   yum install ruby-rdoc ruby-devel
   ```
