@@ -1,7 +1,7 @@
 ## Hello
 
 
-I am **HuangYong**, a Quality Analyst from China, who worked in software testing since 2006. Currently I am focusing on testing practices and frameworks of Mobile testing.
+I am **HuangYong**, a Quality Analyst who worked in software testing since 2006. I am focusing on testing practices and frameworks of Mobile testing. Currently I am employed by [ThoughtWorks](https://www.thoughtworks.com/).
 
 ![HuangYong's avatar](https://raw.githubusercontent.com/hy1984427/hy1984427.github.io/master/images/avatar.png)
 
