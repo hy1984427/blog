@@ -72,37 +72,29 @@ comments: true
 
   `yum install ruby`
 
-2. Install all necessary libraries.
-
-  ```
-  yum install gcc g++ make automake autoconf curl-devel openssl-devel zlib-devel httpd-devel apr-devel apr-util-devel sqlite-devel wget net-tools
-
-  yum install ruby-rdoc ruby-devel
-  ```
-
-3. Install RubyGems.
+2. Install RubyGems.
 
   `yum install rubygems`
 
-4. Install Rake.
+3. Install Rake.
 
   `gem install rake`
 
-5. Install ServerSpec.
+4. Install ServerSpec.
 
   `gem install serverspec`
 
-6. Initial ServerSpec folder with basic settings. Please note the server will be set in this step.
+5. Initial ServerSpec folder with basic settings. Please note the server will be set in this step.
 
   `serverspec-init`
 
-7. Write and run the ServerSpec script according to its [API document](http://serverspec.org/resource_types.html).
+6. Write and run the ServerSpec script according to its [API document](http://serverspec.org/resource_types.html).
 
   You can reference the script  [here](https://raw.githubusercontent.com/hy1984427/hy1984427.github.io/master/documents/ServerSpec.zip).
 
   Using `rake spec` under the test folder to run and check the result.
 
-8. To run specific test rather than the entire test suite.
+7. To run specific test rather than the entire test suite.
 
     Using `rake spec spec/host_server/sample_spec.rb` under the test folder to run and check the result.
 
@@ -199,6 +191,31 @@ comments: true
     `$PATH=$PATH:/usr/lib64`
 
     And run `source ~/.bash_profile`.
+
+  8) Alternatively, we can use Chromedriver:
+
+    i) Create a file called /etc/yum.repos.d/google-chrome.repo and add the following lines of code to it.
+
+      ```
+      [google-chrome]
+      name=google-chrome
+      baseurl=http://dl.google.com/linux/chrome/rpm/stable/$basearch
+      enabled=1
+      gpgcheck=1
+      gpgkey=https://dl-ssl.google.com/linux/linux_signing_key.pub
+      ```
+
+    ii) Check whether the latest version available from the Google�s own repository using `yum info google-chrome-stable`
+
+    iii) Update yum using 'yum update'
+
+    ix) Install Chrome using `yum install google-chrome-stable unzip`
+
+    x) Download Chromedriver using `wget https://chromedriver.storage.googleapis.com/2.32/chromedriver_linux64.zip`
+
+    xi) Unzip Chromedriver using `unzip chromedriver_linux64.zip`
+
+    xii) Move Chromedriver to a place in $PATH using `mv chromedriver bin/`
 
 5. Using `ruby add_assertions_to_check_zap_result.rb` to run and check the result.
 
